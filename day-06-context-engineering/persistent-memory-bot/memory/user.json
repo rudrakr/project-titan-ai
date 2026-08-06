@@ -1,0 +1,16 @@
+{
+  "name": "Rudra",
+  "goal": "Become GenAI Developer",
+  "currentDay": 7,
+  "completedTopics": [
+    "LLM Basics",
+    "Tokens",
+    "Prompt Engineering",
+    "Claude API",
+    "Claude Code",
+    "Context Engineering"
+  ],
+  "weakAreas": [
+    "MCP"
+  ]
+}
