@@ -1,0 +1,30 @@
+{
+  "name": "day-08-rag",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.115.0",
+    "compute-cosine-similarity": "^1.1.0",
+    "dotenv": "^17.4.2",
+    "fs": "^0.0.1-security",
+    "pdf-parse": "^2.4.5",
+    "voyageai": "^0.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.1.2",
+    "@types/pdf-parse": "^1.1.5",
+    "tsx": "^4.23.10",
+    "typescript": "^7.0.2"
+  }
+}
