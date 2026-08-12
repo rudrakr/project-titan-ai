@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.116.0",
+    "chromadb": "^3.5.0",
+    "dotenv": "^17.4.2",
+    "voyageai": "^0.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.2.0"
+  }
+}
